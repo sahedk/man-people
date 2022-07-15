@@ -1,0 +1,124 @@
+body{
+    font-family: 'Fjalla One', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+margin: 0%;
+}
+.contain-1{
+    position: relative;
+    text-align: center;
+    
+}
+.senter-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.senter-text h1{
+text-color:white
+}
+.link-button{
+    background-image: linear-gradient(orange,tomato);
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    border-radius: 10px;
+}
+.second-step{
+    text-align: center;
+}
+.donation-feld{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.donate.text{
+    width: 50%;
+    margin: 20px;
+    display: inline-flex;
+    justify-content: center;
+    border-bottom: 2px solid black;
+}
+.donation_feld_span{
+    border: 2px solod red;
+    width: 300px;
+    padding: 10px;
+    border-radius: 8px;
+    background: lightsalmon;
+    color:#fff;
+}
+
+.last_area{
+    display: flex;
+    jastify-content:center;
+    justify-content: space-around;
+}
+.my_icon{
+    text-align: center;
+}
+
+.icon_containar1{
+    width: 30%;
+    margin: 5%;
+    box-shadow: 10px 10px 20px gray;
+    background-color: antiquewhite;
+    text-align: center;
+}
+.icon_containar1 img{ 
+    margin-top: 20px;
+    width: 40px;
+    padding: 20px;
+
+}
+.icon_containar1_heading{
+    font-size: 30px;
+    font-style: italic;
+}
+.icon_containar2{
+    width: 30%;
+    margin: 5%;
+    box-shadow: 10px 10px 20px gray;
+    background-color: antiquewhite;
+    text-align: center;
+}
+.icon_containar2 img{
+    margin-top: 20px;
+    width: 40px;
+    padding: 20px;
+}
+.icon_containar2_heading{
+    font-size: 30px;
+    font-style: italic;
+}
+
+.icon_container3{
+    width: 30%;
+    margin: 5%;
+    box-shadow: 10px 10px 20px gray;
+    background-color: antiquewhite;
+    text-align: center;
+}
+.icon_container3 img{ 
+    margin-top: 20px;
+    width: 40px;
+    padding: 20px;
+
+}
+.icon_container3_heading{
+    font-size: 30px;
+    font-style: italic;
+}
+.join_end{
+    display: flex;
+    margin: 0%;
+    width: 500px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.half_width{
+    
+}
